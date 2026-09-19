@@ -3,4 +3,4 @@ My programs from python Advanced course.
 
 ## Programs 
 
-- `task01,py` - Hello, World
+- `task01.py` - Hello, World
