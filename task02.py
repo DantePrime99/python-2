@@ -1,4 +1,6 @@
 # Таблиця множення
+
+n = int(input("Число:  "))
+
 for i in range(1, 11):
-    print(f"5 x {i} = {5 * i}")
-    
+    print(f"{n} x {i} = {n * i}")
