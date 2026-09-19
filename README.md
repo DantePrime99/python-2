@@ -1,2 +1,2 @@
 # python-2
-My programs from pythin 2 course
+My programs from python 2 course
